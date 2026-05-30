@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderearse",
+        "uuid": 17985700,
+        "checksum": "fa4wfa"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
